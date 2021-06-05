@@ -1,7 +1,7 @@
 ## Cat Rain
 A custom created suite for rainmeter.
 
-![preview](https://github.com/haretian/cat-rain/blob/main/preview.gif)
+![preview](https://github.com/haretian/cat-rain/blob/main/preview.png)
 
 ### Features
 **-** Clock
