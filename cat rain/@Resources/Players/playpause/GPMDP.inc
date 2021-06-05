@@ -1,0 +1,18 @@
+[Player]
+Measure=Plugin
+Plugin =GPMDPPlugin
+
+[Progress]
+Measure   =Plugin
+Plugin    =GPMDPPlugin
+PlayerInfo=Progress
+
+[PlayerState]
+Measure   =Plugin
+Plugin    =GPMDPPlugin
+PlayerInfo=State
+DynamicVariables=1
+IfCondition  =(PlayerState=1)
+IfTrueAction =[!HideMeter Pause]
+IfFalseAction=[!ShowMeter Pause]
+
