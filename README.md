@@ -3,6 +3,8 @@ A custom created suite for rainmeter.
 
 ![preview](https://github.com/haretian/cat-rain/blob/main/preview.png)
 
+### NOTE: Hardcoded for 1920x1080 screens and not supported for distribution. Recommended you know what you're doing.
+
 ### Features
 **-** Clock
 \
